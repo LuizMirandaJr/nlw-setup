@@ -104,7 +104,7 @@ input:checked {
   border: solid 2px #a78bfa;
 }
 
-@media (max-width: 570px) {
+@media (max-width: 620px) {
   buttom div {
     display: none;
   }
